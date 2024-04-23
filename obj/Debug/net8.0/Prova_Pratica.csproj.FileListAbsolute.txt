@@ -1,0 +1,14 @@
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\bin\Debug\net8.0\Prova_Pratica.exe
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\bin\Debug\net8.0\Prova_Pratica.deps.json
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\bin\Debug\net8.0\Prova_Pratica.runtimeconfig.json
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\bin\Debug\net8.0\Prova_Pratica.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\bin\Debug\net8.0\Prova_Pratica.pdb
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\Prova_Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\Prova_Pratica.AssemblyInfoInputs.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\Prova_Pratica.AssemblyInfo.cs
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\Prova_Pratica.csproj.CoreCompileInputs.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\Prova_Pratica.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\refint\Prova_Pratica.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\Prova_Pratica.pdb
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\Prova_Pratica.genruntimeconfig.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\PRATICA_LP_AP1\Prova_Pratica\obj\Debug\net8.0\ref\Prova_Pratica.dll
